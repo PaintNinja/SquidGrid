@@ -1,4 +1,4 @@
-Squidgrid
+SquidGrid
 ========
 
 ###Comming Soon!
