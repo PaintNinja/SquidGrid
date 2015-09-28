@@ -1,4 +1,4 @@
 SquidGrid
 ========
 
-###Comming Soon!
+###Coming Soon!
